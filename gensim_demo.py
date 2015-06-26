@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#encoding : utf-8
+# -*- coding: utf-8 -*-
 from numpy import zeros
 from scipy.linalg import svd
 #following needed for TFIDF

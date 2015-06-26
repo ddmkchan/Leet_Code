@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#encoding : utf-8
+#encoding=utf-8
 
 class ListNode:
     def __init__(self, x):
